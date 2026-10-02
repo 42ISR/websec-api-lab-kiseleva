@@ -1,4 +1,4 @@
-# %СЮДА_ВСТАВИТЬ_ВАШ_САБДОМЕН/api/marketplace%
+# miorii.kitek-pg.ru/api/marketplace
 
 # Лабораторная: Деплой API
 
